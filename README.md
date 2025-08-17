@@ -4,7 +4,7 @@ Apache Junctions, 85119
 email: johnputman2@gmail.com  
 
 **OVERVIEW**  
-This is currently a rough draft, I'm focused on getting the projects refactored commented for public viewing.  
+This is currently a rough draft, I'm focused on getting the projects refactored and commented for public viewing.  
 I'll get this completely filled out soon, just touching it here and there inbetween other things.  
 
 Retired Commodity Trading Advisor with over 20 years of finance experience.
